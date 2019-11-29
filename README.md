@@ -1,2 +1,1 @@
-# digitalcard
-Media Rumo digitalcard
+# digital-namecard
